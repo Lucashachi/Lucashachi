@@ -26,18 +26,16 @@ I believe in a **UI/UX mindset even for code** — clarity, hierarchy, and inten
 ---
 ### 🧰 Tech Stack
 <p align="center">
-  <img height="36" src="https://cdn.simpleicons.org/python" />
-  <img height="36" src="https://cdn.simpleicons.org/java" />
-  <img height="36" src="https://cdn.simpleicons.org/mysql" />
-  <img height="36" src="https://cdn.simpleicons.org/linux" />
-  <img height="36" src="https://cdn.simpleicons.org/gnubash" />
-  <img height="36" src="https://cdn.simpleicons.org/tensorflow" />
-  <img height="36" src="https://cdn.simpleicons.org/openai" />
-  <img height="36" src="https://cdn.simpleicons.org/github" />
-  <img height="36" src="https://cdn.simpleicons.org/git" />
-  <img height="36" src="https://cdn.simpleicons.org/apple" />
-  <img height="36" src="https://cdn.simpleicons.org/windows" />
-</p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="36" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="36" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="36" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="36" alt="Bash" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="36" alt="TensorFlow" />
+  <img src="https://cdn.simpleicons.org/openai" height="36" alt="OpenAI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="36" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original
+
 
 ---
 
