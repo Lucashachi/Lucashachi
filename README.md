@@ -77,10 +77,6 @@ NOTE: Uncomment this section after you publish a few public repositories.
 
 ---
 
-### ⚡ Fun Fact
-I love building things that make people **feel safer, smarter, and more connected**.  
-From shell scripts to neural networks — everything I build aims to **protect and empower**.
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0b3d91&height=110&section=footer"/>
 </p>
