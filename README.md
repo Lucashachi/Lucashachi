@@ -24,12 +24,8 @@ Clean. Minimal. Purpose-Driven.
 I believe in a **UI/UX mindset even for code** — clarity, hierarchy, and intention in every project.
 
 ---
-
 ### 🧰 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,mysql,linux,bash,tensorflow,openai,github,git&perline=12" />
-</p>
-
+<p align="center"><img src="https://skillicons.dev/icons?i=python,java,mysql,linux,bash,tensorflow,openai,github,git,apple,windows&perline=12" /></p>
 
 ---
 
