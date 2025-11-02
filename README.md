@@ -34,7 +34,12 @@ I believe in a **UI/UX mindset even for code** — clarity, hierarchy, and inten
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="36" alt="TensorFlow" />
   <img src="https://cdn.simpleicons.org/openai" height="36" alt="OpenAI" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="36" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="36" alt="Apple" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="36" alt="Windows" />
+  <img src="https://cdn.simpleicons.org/kalilinux" height="36" alt="Kali Linux" />
+</p>
+
 
 
 ---
