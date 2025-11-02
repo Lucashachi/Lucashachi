@@ -25,7 +25,19 @@ I believe in a **UI/UX mindset even for code** — clarity, hierarchy, and inten
 
 ---
 ### 🧰 Tech Stack
-<p align="center"><img src="https://skillicons.dev/icons?i=python,java,mysql,linux,bash,tensorflow,openai,github,git,apple,windows&perline=12" /></p>
+<p align="center">
+  <img height="36" src="https://cdn.simpleicons.org/python" />
+  <img height="36" src="https://cdn.simpleicons.org/java" />
+  <img height="36" src="https://cdn.simpleicons.org/mysql" />
+  <img height="36" src="https://cdn.simpleicons.org/linux" />
+  <img height="36" src="https://cdn.simpleicons.org/gnubash" />
+  <img height="36" src="https://cdn.simpleicons.org/tensorflow" />
+  <img height="36" src="https://cdn.simpleicons.org/openai" />
+  <img height="36" src="https://cdn.simpleicons.org/github" />
+  <img height="36" src="https://cdn.simpleicons.org/git" />
+  <img height="36" src="https://cdn.simpleicons.org/apple" />
+  <img height="36" src="https://cdn.simpleicons.org/windows" />
+</p>
 
 ---
 
