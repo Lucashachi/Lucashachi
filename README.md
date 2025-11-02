@@ -27,7 +27,7 @@ I believe in a **UI/UX mindset even for code** — clarity, hierarchy, and inten
 
 ### 🧰 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,mysql,linux,bash,tensorflow,openai,github,git" />
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,linux,bash,tensorflow,openai,github,git&perline=9" />
 </p>
 
 ---
@@ -40,14 +40,6 @@ I believe in a **UI/UX mindset even for code** — clarity, hierarchy, and inten
 | ☕ **Java Development** | [java-projects](https://github.com/lucashachi/java-projects) | Java tools, APIs & backend integrations |
 | 🐉 **Kali Linux** | [kali-ops](https://github.com/lucashachi/kali-ops) | Ethical hacking playbooks & security workflows |
 | 📘 **Knowledge Base** | [knowledge-base](https://github.com/lucashachi/knowledge-base) | Cheatsheets & documentation |
-
----
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucashachi&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucashachi&layout=compact&theme=radical" height="150"/>
-</p>
 
 ---
 
