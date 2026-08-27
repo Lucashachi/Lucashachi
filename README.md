@@ -2,7 +2,7 @@
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:0b3d91,100:000000&height=180&section=header&text=Lucas%20Hachi&fontColor=ffffff&fontSize=42&fontAlign=50&fontAlignY=40&animation=fadeIn"
-    alt="Lucas Hachi"
+    alt="Lucas dos Reis Oliveira"
   />
 </p>
 
