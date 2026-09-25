@@ -5,14 +5,14 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/lucas-reis-oliveira-21063b305/">LinkedIn</a> ·
   <a href="https://g.dev/secprotech">Google Developer Profile</a> ·
-  <a href="mailto:lucasreisoliveira019@gmail.com">E-mail</a>
 </p>
 
 ---
 
 ### Sobre mim
 
-Sou estudante de **Ciência da Computação na UNIP** e tenho formação técnica em **Redes de Computadores pelo SENAI**. Trabalho na RR Parafusos com e-commerce e projetos digitais, conectando desenvolvimento web, integrações, análise de dados e automação às necessidades da operação.
+Sou estudante de **Ciência da Computação na UNIP** e tenho formação técnica em **Redes de Computadores pelo SENAI**. 
+Trabalho na RR Parafusos com e-commerce e projetos digitais, conectando desenvolvimento web, integrações, análise de dados e automação às necessidades da operação.
 
 Atualmente atuo como **Analista de E-commerce Mercado Livre**, com foco em precificação, margens, análise de mercado e melhoria dos anúncios e processos. Também participei do desenvolvimento da interface do e-commerce da empresa e de projetos de integração com APIs, logística e meios de pagamento.
 
