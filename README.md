@@ -24,7 +24,7 @@ Também participei do desenvolvimento da interface do e-commerce da empresa e de
 | :--- | :--- |
 | 🌐 **Desenvolvimento web** | Interfaces responsivas com HTML5, CSS3 e JavaScript, com atenção à usabilidade e ao desempenho. |
 | ⚙️ **Automação e integrações** | Integração com APIs, melhoria de processos de e-commerce e aplicação de IA a fluxos operacionais. |
-| 📊 **Dados e negócio** | Análise de preços, custos, margens e indicadores de marketplaces; SQL e preparação de dados em projetos de estudo. |
+| 📊 **Dados e negócio** | Análise de preços, custos, margens e indicadores de marketplaces SQL e preparação de dados em projetos de estudo. |
 | 🔐 **Segurança da informação** | Proteção de dados e LGPD, fundamentos de redes e laboratórios de segurança em ambientes controlados. |
 
 ### Tecnologias e ferramentas
@@ -35,7 +35,7 @@ Também participei do desenvolvimento da interface do e-commerce da empresa e de
 
 - **Ciência da Computação** — UNIP · graduação em andamento
 - **Técnico em Redes de Computadores** — SENAI
-- **Cursos e formações** — Redes e framework de cibersegurança (BluePex); Proteção de Dados, Tópicos em Machine Learning e Organização de Dados para Análise Multivariada (FGV); Mercado Ads
+- **Cursos e formações** — Redes e framework de cibersegurança (BluePex); Proteção de Dados, Tópicos em Machine Learning e Organização de Dados para Análise Multivariada (FGV) Mercado Ads
 - **Estudando atualmente** — Java, Python aplicado a dados e IA, segurança ofensiva em laboratório e desenvolvimento Android com Kotlin
 
 ---
