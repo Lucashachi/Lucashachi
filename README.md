@@ -6,10 +6,6 @@
 
 Desenvolvimento web · Automação · Dados · Segurança da informação
 
-[LinkedIn](https://www.linkedin.com/in/lucas-reis-oliveira-21063b305/) · [Google Developer Profile](https://g.dev/secprotech) · [E-mail](mailto:lucasreisoliveira019@gmail.com)
-
-📍 Limeira, SP
-
 </div>
 
 ---
