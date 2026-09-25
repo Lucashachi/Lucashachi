@@ -1,82 +1,39 @@
-<!-- Banner (centered) -->
+<h1 align="center">Lucas dos Reis Oliveira</h1>
+
+<p align="center"><strong>Desenvolvimento web · Automação · Dados · Segurança da informação</strong></p>
+
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0b3d91,100:000000&height=180&section=header&text=Lucas%20Hachi&fontColor=ffffff&fontSize=42&fontAlign=50&fontAlignY=40&animation=fadeIn"
-    alt="Lucas dos Reis Oliveira"
-  />
-</p>
-
-<h3 align="center">💻 Cyber Security • Artificial Intelligence • Java Development • Kali Linux</h3>
-<p align="center">⚙️ Automation • Security • Intelligence • Engineering</p>
-
----
-
-### 🧠 About Me
-I’m **Lucas Hachi**, a developer and cybersecurity enthusiast passionate about integrating **security, AI, and software engineering** to build smarter and safer systems.
-
-> “Technology is powerful only when it creates real impact.”
-
-I specialize in:
-- 🔒 **Cyber Security** — offensive & defensive labs, automation scripts  
-- 🤖 **AI in Python** — machine learning, data analysis, risk detection  
-- ☕ **Java Development** — backend systems & API integrations  
-- 🐉 **Kali Linux** — ethical hacking playbooks & tooling
-
----
-
-### 🎨 Design Philosophy
-Clean. Minimal. Purpose-driven.  
-I believe in a **UI/UX mindset even for code** — clarity, hierarchy, and intention in every project.
-
----
-
-### 🧰 Tech Stack
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="36" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="36" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="36" alt="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="36" alt="Bash" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="36" alt="TensorFlow" />
-  <img src="https://cdn.simpleicons.org/openai" height="36" alt="OpenAI" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="36" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="36" alt="Apple" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="36" alt="Windows" />
-  <img src="https://cdn.simpleicons.org/kalilinux" height="36" alt="Kali Linux" />
+  <a href="https://www.linkedin.com/in/lucas-reis-oliveira-21063b305/">LinkedIn</a> ·
+  <a href="https://g.dev/secprotech">Google Developer Profile</a> ·
+  <a href="mailto:lucasreisoliveira019@gmail.com">E-mail</a>
 </p>
 
 ---
 
-### 📂 Featured Repositories (coming soon)
-| Category | Repository | Description |
-|-----------|-----------|-------------|
-| 🔒 **Cyber Security** | [cyber-labs](https://github.com/lucashachi/cyber-labs) | Security labs, exploits & automation scripts |
-| 🤖 **AI & Data** | [ai-python-projects](https://github.com/lucashachi/ai-python-projects) | ML models, data analysis & inference APIs |
-| ☕ **Java Development** | [java-projects](https://github.com/lucashachi/java-projects) | Java tools, REST APIs & integrations |
-| 🐉 **Kali Linux** | [kali-ops](https://github.com/lucashachi/kali-ops) | Ethical hacking playbooks & workflows |
-| 📘 **Knowledge Base** | [knowledge-base](https://github.com/lucashachi/knowledge-base) | Documentation & cheatsheets |
+### Sobre mim
 
----
+Sou estudante de **Ciência da Computação na UNIP** e tenho formação técnica em **Redes de Computadores pelo SENAI**. Trabalho na RR Parafusos com e-commerce e projetos digitais, conectando desenvolvimento web, integrações, análise de dados e automação às necessidades da operação.
 
-<!--
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucashachi&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucashachi&layout=compact&theme=radical" height="150" />
-</p>
-NOTE: Uncomment this section after you publish a few public repositories.
--->
+Atualmente atuo como **Analista de E-commerce Mercado Livre**, com foco em precificação, margens, análise de mercado e melhoria dos anúncios e processos. Também participei do desenvolvimento da interface do e-commerce da empresa e de projetos de integração com APIs, logística e meios de pagamento.
 
-### 🌐 Portfolio & Links
-<p align="center">
-  <a href="https://linkedin.com/in/lucas-dos-reis-oliveira"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:lucasreisoliveira019@gmail.com"><img src="https://img.shields.io/badge/Email-DB4437?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://g.dev/secprotech"><img src="https://img.shields.io/badge/Google%20Developer%20Portfolio-0F9D58?style=for-the-badge&logo=google&logoColor=white" /></a>
-</p>
+### Áreas de atuação
 
----
+| Área | Experiência e interesses |
+| --- | --- |
+| **Desenvolvimento web** | Interfaces responsivas com HTML5, CSS3 e JavaScript; atenção à usabilidade e ao desempenho. |
+| **Automação e integrações** | APIs e melhoria de processos de e-commerce; aplicação de IA a fluxos operacionais. |
+| **Dados e negócio** | Análise de preços, custos, margens e indicadores de marketplaces; SQL e preparação de dados em projetos de estudo. |
+| **Segurança da informação** | Proteção de dados e LGPD; fundamentos de redes e laboratórios de segurança em ambientes controlados. |
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0b3d91&height=110&section=footer"/>
-</p>
+### Formação e aprendizado
+
+- **Ciência da Computação** — UNIP, graduação em andamento.
+- **Técnico em Redes de Computadores** — SENAI.
+- **Cursos e certificações:** Redes e framework de cibersegurança (BluePex); Proteção de Dados, Tópicos em Machine Learning e Organização de Dados para Análise Multivariada (FGV); formações em Mercado Ads.
+- **Em estudo:** Java, Python aplicado a dados e IA, segurança ofensiva em laboratório e desenvolvimento Android com Kotlin.
+
+### Tecnologias
+
+`HTML5` · `CSS3` · `JavaScript` · `Python` · `SQL` · `Git` · `APIs REST` · `Linux`
+
+<p align="center"><sub>Limeira, SP · Aberto a trocar ideias sobre desenvolvimento, automação e segurança.</sub></p>
