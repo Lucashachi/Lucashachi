@@ -16,9 +16,11 @@ Desenvolvimento web · Automação · Dados · Segurança da informação
 
 ### Olá! 👋
 
-Sou estudante de **Ciência da Computação na UNIP** e técnico em **Redes de Computadores pelo SENAI**. Na **RR Parafusos**, atuo com e-commerce e projetos digitais, aproximando tecnologia das necessidades da operação.
+Sou estudante de **Ciência da Computação na UNIP** e técnico em **Redes de Computadores pelo SENAI**. 
+Na **RR Parafusos**, atuo com e-commerce e projetos digitais, aproximando tecnologia das necessidades da operação.
 
-Hoje trabalho como **Analista de E-commerce Mercado Livre**, com foco em precificação, margens, análise de mercado e melhoria de anúncios e processos. Também participei do desenvolvimento da interface do e-commerce da empresa e de projetos envolvendo APIs, logística e meios de pagamento.
+Hoje trabalho como **Analista de E-commerce Mercado Livre**, com foco em precificação, margens, análise de mercado e melhoria de anúncios e processos. 
+Também participei do desenvolvimento da interface do e-commerce da empresa e de projetos envolvendo APIs, logística e meios de pagamento.
 
 ### No que trabalho
 
